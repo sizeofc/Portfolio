@@ -4,11 +4,13 @@
 
 ## Herramientas utilizadas:
 
-* HTML
+![html](https://img.shields.io/badge/HTML-orange)
 
-* CSS
+![Static Badge](https://img.shields.io/badge/CSS-light_blue)
 
-* Flex-box
+
+![Static Badge](https://img.shields.io/badge/Flex--Box-%23d22ce3)
+
 
 ## Hecho por:
 
