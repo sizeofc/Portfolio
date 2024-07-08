@@ -15,3 +15,37 @@
 ### Jonatan Atencio
 
 ### Linkedin: https://www.linkedin.com/school/aluracursos/
+
+**este texto**
+
+> Aqui hay una [pagina con los codigos mas frecuentes](http://google.com.ar?q=markdon-quick-reference) MarkDown
+
+> [Mi perfil de Linkedin](https://linkedin.com/in/jonatanatencio)
+
+[![imagen solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://cldup.com/dTxpPi9lDf.thumb.png)
+
+# _Texto en italica: Titulo_
+<h1>Titulo h1</h1>
+## _Texto en italica: SubTitulo_
+### _Texto en italica: H3_
+
+[AngularJS](https://angujar.js)
+
+```sh
+cd dillinger
+npm i
+node app
+```
+
+| Plugin           | README                                   |
+| ----------       | ------------------------------------     |
+| Dropbox          | [plugins/dropbox/README.md][PlDb]        |
+| GitHub           | [plugins/github/README.md][PlGh]         |
+| Google Drive     | [plugins/googledrive/README.md][PlGd]    |
+| OneDrive         | [plugins/onedrive/README.md][PlOd]       |
+| Medium           | [plugins/medium/README.md][PlMe]         |
+| Google Analytics | [plugins/googleanalytics/README.md][PlGa]|
+
+
+
+
