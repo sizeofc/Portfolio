@@ -4,12 +4,7 @@
 
 ## Herramientas utilizadas:
 
-![html](https://img.shields.io/badge/HTML-orange)
-
-![Static Badge](https://img.shields.io/badge/CSS-light_blue)
-
-
-![Static Badge](https://img.shields.io/badge/Flex--Box-%23d22ce3)
+![html](https://img.shields.io/badge/HTML-orange)![Static Badge](https://img.shields.io/badge/CSS-light_blue)![Static Badge](https://img.shields.io/badge/Flex--Box-%23d22ce3)
 
 
 ## Hecho por:
